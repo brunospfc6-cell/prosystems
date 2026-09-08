@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 4255,
+      "bodyTextHash": "8c8e9df62f76d8ed9cbc639f91274bb59fa8c2e8ca2775e2bd3fa1dced2413f1",
+      "bodyTextPrefix": "PRO-SYSTEMS Projeto Soluções Institucional Capacitação Cases Ent",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/home.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 4189,
+      "bodyTextHash": "51442dce8f5640be1b7f4520e53e81c0c822b5f08ac7b408d212faccf0a2143d",
+      "bodyTextPrefix": "PRO-SYSTEMS AUTODESK SILVER PARTNER · AUTHORIZED TRAINING CENTER",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/home-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/home.json"
+}

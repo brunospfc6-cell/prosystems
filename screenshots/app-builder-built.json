@@ -1,0 +1,39 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 4284,
+      "bodyTextHash": "8ce54c36bb220822fda103aa66eaf88e096a14508b1ec4b21d1e57918554af94",
+      "bodyTextPrefix": "PRO-SYSTEMS Soluções Institucional Capacitação Cases Eventos Fal",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 4222,
+      "bodyTextHash": "41d81d3016e8aa62322b4cab95ad842650c3d194dc38338dc6b4d79046aa2a58",
+      "bodyTextPrefix": "PRO-SYSTEMS AUTODESK SILVER PARTNER · AUTHORIZED TRAINING CENTER",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8080/capacitacao",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 1743,
+      "bodyTextHash": "f41212b15e5b589da2263d12bb2584c6ed8b4f610165099fad31affea2096b7d",
+      "bodyTextPrefix": "PRO-SYSTEMS Projeto Soluções Institucional Capacitação Cases Ent",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/capacitacao.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 1677,
+      "bodyTextHash": "9eb0596ddb9f352d04540f2c02ddff6d4ad3306306253e0d4b52e9fb4c7bae42",
+      "bodyTextPrefix": "PRO-SYSTEMS CAPACITAÇÃO Treinamentos oficiais Autodesk, no seu r",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/capacitacao-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/capacitacao.json"
+}

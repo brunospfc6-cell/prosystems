@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8080/solucoes",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 1032,
+      "bodyTextHash": "e534b66b2c73b30f881633a783d691d57ec13bf3468404d438601e033fe824a0",
+      "bodyTextPrefix": "PRO-SYSTEMS Projeto Soluções Institucional Capacitação Cases Ent",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/solucoes.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 966,
+      "bodyTextHash": "b6bfe90248014c16e2f333e5cb7952a91326ccb4622b49c49ce1c43d54af6689",
+      "bodyTextPrefix": "PRO-SYSTEMS SOLUÇÕES Do conceito à execução, um ecossistema Auto",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/solucoes-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/solucoes.json"
+}

@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8080/briefing",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 870,
+      "bodyTextHash": "5b410d58d77d5b04fad844accf72a86e13f8321ff2927b438f827f5b23779f01",
+      "bodyTextPrefix": "PRO-SYSTEMS Projeto Soluções Institucional Capacitação Cases Ent",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/briefing.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 804,
+      "bodyTextHash": "a1f3e98332f10f831488c7c87d094d54e790a46625682d3136a0042a51484904",
+      "bodyTextPrefix": "PRO-SYSTEMS TERRENO E LEVANTAMENTO 0/6 BRIEFING 1 / 6 Que tipo d",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/briefing-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/briefing.json"
+}

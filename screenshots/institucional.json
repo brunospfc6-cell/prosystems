@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8080/institucional",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 2632,
+      "bodyTextHash": "d33fc099e2910d0ad7ba795b3df2402f32cfccd9646e802a409db99dfb74182c",
+      "bodyTextPrefix": "PRO-SYSTEMS Soluções Institucional Capacitação Cases Eventos Ent",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/institucional.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 2563,
+      "bodyTextHash": "571d295f25384cbac7cf3c284f26fbc068db5d57900ba194bfb898f56397f4ad",
+      "bodyTextPrefix": "PRO-SYSTEMS INSTITUCIONAL Pro-Systems Brasil: Autodesk Silver Pa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/institucional-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/institucional.json"
+}

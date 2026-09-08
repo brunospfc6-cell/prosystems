@@ -1,0 +1,35 @@
+{
+  "url": "http://127.0.0.1:8080/contato",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 1193,
+      "bodyTextHash": "3bdfb9c259b1ee84d538eefe650586ce55f63482fb42b8a7ccf5a245b6700ebf",
+      "bodyTextPrefix": "PRO-SYSTEMS Soluções Institucional Capacitação Cases Eventos Fal",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/contato.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pro-Systems",
+      "hasCanvas": false,
+      "bodyTextLen": 1131,
+      "bodyTextHash": "92ad11b5db4e3e2d5fcb9725bf842a44c908b80393a8f4d9145877962caa7fe0",
+      "bodyTextPrefix": "PRO-SYSTEMS FALE CONOSCO Nossos especialistas estão à disposição",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/contato-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "verdictFile": "/workspace/screenshots/contato.json"
+}
